@@ -1,5 +1,7 @@
 # Ecommerce-customer-behavior-analysis
 Power BI project analyzing e-commerce sales performance, customer behavior, customer loyalty, and product category revenue through interactive dashboards and data-driven insights.
+
+
 # E-Commerce Customer Behavior Analysis
 
 ## Project Overview
@@ -28,6 +30,8 @@ The project includes three interactive dashboard pages designed to provide an ov
 
 ### 1. Executive Overview
 
+![Dashboard1](Dashboard1.png)
+
 Provides a snapshot of overall business performance through key performance indicators and visualizations.
 
 Key metrics and analysis:
@@ -41,6 +45,9 @@ Key metrics and analysis:
 
 ### 2. Customer Behavior & Loyalty
 
+![Dashboard2](Dashboard2.png)
+
+
 Explores customer demographics, customer distribution, and purchasing patterns.
 
 Key metrics and analysis:
@@ -53,6 +60,8 @@ Key metrics and analysis:
 - Average Order Value by Gender
 
 ### 3. Product & Sales Performance
+
+![Dashboard3](Dashboard3.png)
 
 Focuses on category performance, customer-type revenue, and cumulative revenue.
 
